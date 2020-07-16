@@ -1,5 +1,5 @@
 title: Leo Chen Studios
-description: The Blog of a Failed OIer.
-show_downloads: true
+description: The Blog of a Failed OIer
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-time-machine
