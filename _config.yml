@@ -1,6 +1,7 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+<<<<<<< HEAD
+title: Leo Chen Studios
+logo: https://s1.ax1x.com/2020/07/16/UrVWFS.png
+description: The Blog of a Failed OIer
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
