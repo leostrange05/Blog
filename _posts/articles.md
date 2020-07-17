@@ -1,3 +1,9 @@
+---
+layout: page
+title: "日志随笔"
+permalinnk: /articles
+---
+
 # 日志随笔
 
 ___
