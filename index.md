@@ -7,6 +7,7 @@ ___
 **【IT】 🔗[洛谷博客](https://leostrange.blog.luogu.org)**
 
 **【日记随笔】暂未开放**
+
 ___
 
 ## 关于作者
