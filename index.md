@@ -1,4 +1,4 @@
-# **Leo Chen 的主页**
+# Leo Chen 的主页
 
 ___
 
