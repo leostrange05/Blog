@@ -6,7 +6,7 @@ ___
 
 **【IT】 🔗[洛谷博客](https://leostrange.blog.luogu.org)**
 
-**【日志随笔】暂未开放**
+**【日志随笔】[日志随笔](https://leostrange05.github.io/articles)**
 
 ___
 
