@@ -1,3 +1,17 @@
+## 【文章网页发表指南】
+
+**请在文章前加上如下内容**
+
+```
+---
+layout: default
+title: "#NAME_OF_PAGE#"
+permalink: #PATH_OF_PAGE#
+---
+```
+**注意：layout,title,permalink后面冒号后有一个空格，一定要加
+title的双引号一定要加**
+
 # The Minimal theme
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
@@ -15,12 +29,13 @@ To use the Minimal theme:
     ```yml
     theme: jekyll-theme-minimal
     ```
+```
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
-    ```
+```
 
 
 
