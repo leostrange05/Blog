@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: “任务计划”
 permalink: /tasks
 ---
