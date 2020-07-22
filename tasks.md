@@ -1,7 +1,7 @@
 ---
-layout:page
-title:任务计划
-permalink:/tasks
+layout: page
+title: “任务计划”
+permalink: /tasks
 ---
 
 # 任务计划
