@@ -8,6 +8,8 @@ ___
 
 **【日志随笔】[日志随笔](https://leostrange05.github.io/articles)**
 
+**【个人计划】[任务计划](https://leostrange05.github.io/tasks)  ** 
+
 ___
 
 ## 关于作者

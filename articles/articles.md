@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "日志随笔"
 permalink: /articles
 ---
