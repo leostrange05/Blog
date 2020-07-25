@@ -18,6 +18,7 @@ ___
 
 ✉ [cheng08032005@outlook.com](mailto:cheng08032005@outlook.com)
 
+![CodeForces](http://codeforces.com/profile/cheng08032005Strange)
 ___
 
 # Tips:本站仍在建设中...
