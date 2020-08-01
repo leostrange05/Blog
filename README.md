@@ -9,7 +9,7 @@ title: "#NAME_OF_PAGE#"
 permalink: #PATH_OF_PAGE#
 ---
 ```
-**注意：layout,title,permalink后面冒号后有一个空格，一定要加
+**注意：layout,title,permalink后面冒号后有一个空格，一定要加;
 title的双引号一定要加**
 
 # The Minimal theme
