@@ -6,6 +6,8 @@ ___
 
 **【IT】 🔗[洛谷博客](https://leostrange.blog.luogu.org)**
 
+**【数学】[数学天地](https://leostrange05.github.io/maths)**
+
 **【日志随笔】[日志随笔](https://leostrange05.github.io/articles)**
 
 **【专题】[研究性学习](https://leostrange05.github.io/research)**
