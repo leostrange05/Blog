@@ -4,7 +4,7 @@ title: "数学天地-文章"
 permalink: /maths/san-jiao-han-shu-chang-yong-gong-shi
 ---
 
-## 三角函数常用公式
+# 三角函数常用公式
 
 ---
 
