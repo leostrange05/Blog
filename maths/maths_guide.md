@@ -13,6 +13,8 @@ permalink: /maths
 
 **您现在的位置：**[主页](https://leostrange05.github.io) > 数学天地
 
+---
+
 
 
 #### 【文章列表】
@@ -20,7 +22,4 @@ permalink: /maths
 ---
 
 * **[积分表推导](https://leostrange05.github.io/maths/ji-fen-biao-tui-dao)**
-
----
-
 * **[三角函数常用公式](https://leostrange05.github.io/maths/san-jiao-han-shu-chang-yong-gong-shi)**
