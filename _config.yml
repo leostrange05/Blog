@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Leo Chen Studios
-  tagline: Developer. Designer
+  tagline: Always Keep Rational
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -27,8 +27,8 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    github:  leostrange05
+    #linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
