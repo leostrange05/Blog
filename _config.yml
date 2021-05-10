@@ -13,7 +13,10 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Leo Chen Studios
-  tagline: Ration, Persistence
+  tagline: |
+  Ration, Power,
+  
+  Persistence
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
